@@ -20,8 +20,8 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey. I'm 
 ---
 
 ## 📊 Some stats
- 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarceloSias05&theme=onedark&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSias05&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)](https://github.com/MarceloSias05)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloSias05&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/MarceloSias05)
