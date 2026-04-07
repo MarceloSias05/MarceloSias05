@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marcelo Sias 👋
 
-<!--
-**MarceloSias05/MarceloSias05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Technology student at Tecnológico de Monterrey. I'm passionate about mobile development and building web products that make a real impact. Currently interning at IBM Mexico and leading the CS Student Association at Tec.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-sias)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloSias05)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Languages & Tools
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=swift,python,kotlin,js,ts,cpp,mysql,postgres&perline=8&theme=dark)](https://skillicons.dev)
+
+**Frameworks & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,docker,prisma,git,github&perline=8&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📊 Some stats
+
+[![trophy](https://github-profile-trophy-delta-ten.vercel.app/?username=MarceloSias05&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Languages](https://github-readme-stats-vert-theta.vercel.app/api/top-langs/?username=MarceloSias05&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)](https://github.com/MarceloSias05)
+[![GitHub Stats](https://github-readme-stats-vert-theta.vercel.app/api?username=MarceloSias05&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/MarceloSias05)
