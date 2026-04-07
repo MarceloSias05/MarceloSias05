@@ -1,6 +1,7 @@
 # Hi, I'm Marcelo Sias 👋
 
-I'm a Computer Science and Technology student at Tecnológico de Monterrey. I'm passionate about mobile development and building web products that make a real impact. Currently interning at IBM Mexico and leading the CS Student Association at Tec.
+ 
+I'm a Computer Science and Technology student at Tecnológico de Monterrey. Passionate about mobile development and building web products that make a real impact. Currently a Sales Engineer Intern at IBM Mexico, Data Engineering Intern at Tec de Monterrey, and Vice President of the Computer Science Student Association at Tec de Monterrey.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-sias)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloSias05)
@@ -21,7 +22,7 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey. I'm 
 
 ## 📊 Some stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarceloSias05&theme=onedark&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSias05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/MarceloSias05)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloSias05&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800)](https://github.com/MarceloSias05)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSias05&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)](https://github.com/MarceloSias05)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloSias05&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/MarceloSias05)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarceloSias05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
